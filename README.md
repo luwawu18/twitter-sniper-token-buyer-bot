@@ -90,13 +90,13 @@ Transaction: https://solscan.io/tx/xxxxxxxx
 ## 📬 **Let’s Connect & Build Together**
 
 <p align="center">
-  <a href="https://x.com/toptrendev" target="_blank">
+  <a href="https://x.com/kakamajo_btc" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/648385188774019072" target="_blank">
+  <a href="https://discord.com/users/64838518877401972s" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://t.me/TopTrenDev_66" target="_blank">
+  <a href="https://t.me/lorine93s" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
